@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="cerebrito" size="10.000000 7.695312" />
+    <ImageTarget name="laberinth" size="10.000000 10.027855" />
+    <ImageTarget name="NerdLove" size="10.000000 5.625000" />
+    <ImageTarget name="STICH" size="10.000000 9.270387" />
+  </Tracking>
+</QCARConfig>
